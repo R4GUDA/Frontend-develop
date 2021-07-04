@@ -1,0 +1,50 @@
+.introduce {
+    background: url(../../img/bg/introduce-bg.png);
+    height: 720px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 161px;
+    padding-left: 120px;
+}
+
+.introduce__inner {
+    width: 516px;
+}
+
+.introduce__wondering {
+    margin-top: 40px;
+    margin-bottom: 16px;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--color-primary);
+    font-family: var(--font-roboto);
+    font-weight: bold;
+}
+
+.introduce__search {
+    display: flex;
+}
+
+.search__input {
+    color: #222222;
+    font-weight: bold;
+    font-family: var(--font-raleway);
+    font-size: 14px;
+    line-height: 20px;
+    background: white;
+    width: 175px;
+    padding: 20px 88px 20px 20px;
+    border-radius: 6px 0px 0px 6px;
+}
+
+
+.search__find {
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 20px;
+    font-family: var(--font-raleway);
+    color: #FFFFFF;
+    background: var(--color-secondary);
+    padding: 20px 35px;
+    border-radius: 0px 6px 6px 0px;
+}

@@ -1,0 +1,12 @@
+.container {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+h2 {
+    font-weight: bold;
+    color: var(--color-primary);
+    font-size: 36px;
+    line-height: 46px;
+    font-family: var(--font-roboto);
+}

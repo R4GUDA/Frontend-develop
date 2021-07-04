@@ -1,0 +1,47 @@
+.nav {
+    font-family: var(--font-raleway);
+    display: flex;
+    align-items: center;
+}
+
+.nav__ul {
+    display: flex;
+    align-items: center;
+}
+
+.nav__li {
+    margin: 0 25px;
+}
+
+.nav__link {
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--color-primary);
+    font-family: var(--font-raleway);
+}
+
+.nav__login {
+    font-weight: 700;
+    position: relative;
+    color: var(--color-primary);
+    font-family: var(--font-raleway);
+    margin-right: 46px;
+}
+
+.nav__login::after {
+    position: absolute;
+    width: 12px;
+    height: 8px;
+    content: "";
+    background: url(../../img/icon/nav__arrow.png);
+    top: 30%;
+    right: -15px;
+}
+
+.nav__lang {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--color-primary);
+    font-family: var(--font-raleway);
+    margin-right: 77px;
+}

@@ -1,0 +1,13 @@
+.btn {
+    background: var(--color-secondary);
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 700;
+    font-family: var(--font-raleway);
+}
+
+.btn_nav {
+    padding: 10px 14px;
+    margin: 0 29px;
+}

@@ -1,3 +1,3 @@
 # Frontend works
 
-- [Exodus](Exodus)
+- [Exodus](exodus)

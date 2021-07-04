@@ -1,0 +1,48 @@
+.header {
+    background: radial-gradient(83.36% 263.46% at 20.03% 40.37%, rgba(0, 0, 0, 0) 16.01%, rgba(0, 0, 0, 0.69) 89.84%), url(../../img/exodusBg.png), #19191d;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 1080px;
+    z-index: -5;
+}
+
+.header__content {
+    color: #F7F7FA;
+}
+
+.header__title {
+    width: 550px;
+    font-size: 5rem;
+    letter-spacing: 0.2px;
+    font-weight: 600;
+    line-height: 60px;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 205px;
+    margin-top: 220px;
+}
+
+.header__text {
+    font-family: 'Rubik', sans-serif;
+    margin-left: 205px;
+    margin-top: 30px;
+    font-size: 1.6rem;
+    width: 550px;
+    line-height: 28px;
+    font-weight: 300;
+}
+
+.header__scroll {
+    margin-top: 152px;
+    margin-left: 205px;
+}
+
+.header__phone { 
+    z-index: 2;
+    position: absolute;
+    right: 190px;
+    top: 140px;
+}
+
+.header__phone-second {
+    top: 250px;
+}

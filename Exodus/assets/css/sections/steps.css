@@ -1,0 +1,13 @@
+.steps {
+    position: relative;
+    z-index: 4;
+    display: flex;
+    justify-content: space-between;
+    width: 1312px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background: white;
+    padding: 50px;
+    margin-top: 160px;
+    box-shadow: 0 0 20px 4px rgb(175 175 175 / 50%);
+}

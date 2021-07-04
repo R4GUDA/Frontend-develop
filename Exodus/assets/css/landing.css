@@ -1,0 +1,52 @@
+.download-btn:hover {
+    box-shadow: 0px 6px 10px rgba(255, 105, 101, 0.2);
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    background: grey;
+    border-radius: 4px;
+    margin-right: 20px;
+    margin-top: 47px;
+}
+
+.dot-selected {
+    background: linear-gradient(90deg, #EC6F66 0%, #F3A183 100%);
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.dot-selected::before {
+    position: absolute;
+    right: 128px;
+    top: 43px;
+    content: "";
+    border-radius: 50%;
+    border: 1px solid #f3a18388;
+    height: 18px;
+    width: 18px;
+}
+
+.right40px {
+    right: 40px;
+}
+
+.arrows__arrow {
+    display: flex;
+    opacity: 0.3;
+    transition: 0.2s;
+}
+
+.arrows__arrow:hover {
+    opacity: 1;
+}
+
+.arrows__dot {
+    margin: 0 27px;
+}
+
+.margin10px {
+    margin: 0 10px;
+}

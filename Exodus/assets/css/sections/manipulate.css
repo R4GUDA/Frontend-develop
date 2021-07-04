@@ -1,0 +1,35 @@
+.manipulate {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url(../../img/manipulateBG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.manipulate__title {
+    margin-top: 112px;
+    font-family: Rubik;
+    color: #F7F7FA;
+    text-align: center;
+    letter-spacing: 0.2px;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 60px;
+    width: 832px;
+}
+
+.manipulate__advantages {
+    display: flex;
+    padding: 80px;
+    margin-top: 58px;
+    margin-bottom: 120px;
+    width: 1210px;
+    background: white;
+    justify-content: space-around;
+}
+
+.manipulate__advantages>hr {
+    border: 1px solid #F5F5F5;
+}

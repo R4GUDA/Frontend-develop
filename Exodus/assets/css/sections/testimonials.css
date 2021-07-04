@@ -1,0 +1,24 @@
+.testimonials {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: #E5E5E5;
+    padding-bottom: 110px;
+    padding-top: 100px;
+}
+
+.testimonials__title {
+    margin-bottom: 80px;
+}
+
+.testimoinals__cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.testimonials__arrows {
+    align-items: center;
+    display: flex;
+}

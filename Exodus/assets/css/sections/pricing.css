@@ -1,0 +1,21 @@
+.pricing {
+    background: #FAFAFA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 100px 0;
+}
+
+.pricing__text {
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    margin-top: 19px;
+    margin-bottom: 43px;
+    width: 588px;
+}
+
+.plans {
+    display: flex;
+}

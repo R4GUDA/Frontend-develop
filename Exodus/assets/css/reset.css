@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0 0;
+    font-family: 'Roboto', sans-serif;
+    color: #3A3A44;
+}
+
+h2 {
+    font-family: Rubik;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #EC6F66 0%, #F3A183 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: normal;
+}

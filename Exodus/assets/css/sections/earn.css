@@ -1,0 +1,55 @@
+.earn {
+    padding-top: 245px;
+    padding-bottom: 100px;
+    background: #E5E5E5;;
+    display: flex;
+}
+
+.earn__inner {
+    position: relative;
+    padding: 200px 106px;
+}
+
+.earn__text {
+    font-size: 16px;
+    line-height: 28px;
+    width: 470px;
+    margin-top: 25px;
+}
+
+.earn__arrow {
+    position: absolute;
+    cursor: pointer;
+    top: 49%;
+    left: 110%;
+}
+
+.earn__more {
+    display: block;
+    margin-top: 34px;
+    position: relative;
+    background: linear-gradient(90deg, #EC6F66 0%, #F3A183 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 130%;
+    opacity: 0.8;
+}
+
+.earn__more::after {
+    top: 4px;
+    left: 100px;
+    position: absolute;
+    content: "";
+    width: 12px;
+    height: 12px;
+    background: url(../../img/earnArrowSmall.png);
+}
+
+.earn__dots {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}

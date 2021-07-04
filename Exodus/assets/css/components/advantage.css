@@ -1,0 +1,33 @@
+.advantage {
+    text-align: center;
+}
+
+.advantage__number {
+    background: linear-gradient(90deg, #EC6F66 0%, #F3A183 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Rubik;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    text-align: center;
+    letter-spacing: -0.423077px;
+}
+
+.advantage__title {
+    font-family: Rubik;
+    color: #222222;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: -0.186154px;
+    margin-top: 31px;
+    margin-bottom: 14px;
+}
+
+.advantage__desc {
+    color: #868686;
+    font-size: 16px;
+    line-height: 28px;
+    width: 430px;
+}

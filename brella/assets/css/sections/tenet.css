@@ -1,0 +1,127 @@
+.tenet {
+    padding-top: 176px;
+    padding-bottom: 120px;
+}
+
+.tenet__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tenet__block {
+    width: 510px;
+}
+
+.block {
+    width: 510px;
+}
+
+.tenet__block-right {
+    height: 432px;
+}
+
+.block__tenet { }
+
+.temp-block {
+    position: relative;
+    display: flex;
+}
+
+.block__text {
+    margin-right: 31px;
+}
+
+.block__title {
+    width: 478px;
+}
+
+.block__desc-left {
+    width: 477px;
+    margin-bottom: 42px;
+}
+
+.block__percentage {
+    color: var(--color-primary);
+    font-family: var(--font-roboto);
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 90px;
+}
+
+.block__desc-right {
+    color: var(--color-primary);
+    font-family: var(--font-raleway);
+    width: 220px;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: 0.02px;
+    margin-bottom: 60px;
+}
+
+.block__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.block__diagram {
+    display: flex;
+    justify-content: center;
+}
+
+.diagram {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: center;
+    width: 78px;
+    padding: 0 20px;
+    margin-bottom: 10px;
+}
+
+.diagram__price {
+    color: var(--color-primary);
+    font-family: var(--font-raleway);
+    font-size: 13px;
+    line-height: 22px;
+}
+
+.diagram__rectangle {
+    width: 100%;
+    background: var(--color-secondary);
+}
+
+.diagram__rectangle-low {
+    height: 150px;
+}
+
+.diagram__rectangle-high {
+    height: 300px;
+}
+
+.diagram__desc {
+    margin-top: 20px;
+    font-weight: bold;
+    color: var(--color-primary);
+    font-family: var(--font-raleway);
+    font-size: 13px;
+    line-height: 22px;
+}
+
+.diagram__line {
+    position: absolute;
+    top: 235px;
+    width: 510px;
+    height: 2px;
+    background: #F0A446;
+}
+
+.block__text-bottom {
+    text-align: right;
+    margin-right: 40px;
+    font-family: var(--font-raleway);
+    color: #757575;
+    font-size: 13px;
+    line-height: 22px;
+}

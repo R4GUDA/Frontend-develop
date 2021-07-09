@@ -9,4 +9,32 @@ h2 {
     font-size: 36px;
     line-height: 46px;
     font-family: var(--font-roboto);
+    margin-top: 20px;
+    margin-bottom: 34px;
+}
+
+h3 {
+    color: var(--color-primary);
+    font-family: var(--font-raleway);
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.05px;
+    text-transform: uppercase;
+}
+
+.desc {
+    font-family: var(--font-raleway);
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.02px;
+    color: #757575;
+    margin-bottom: 24px;
+}
+
+
+.tagline-small {
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 18px;
 }

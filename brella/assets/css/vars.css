@@ -1,6 +1,9 @@
 :root {
     --color-primary: #214E41;
     --color-secondary: #43806C;
+    --color-coverage-yellow: #F0A446;
+    --color-backed__grey-line: #C7C7C7;
+    --color-contact__light-green: #E3EEED;
 
     --font-roboto: 'Roboto', sans-serif;
     --font-raleway: 'Raleway', sans-serif;

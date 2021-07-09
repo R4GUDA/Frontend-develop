@@ -1,0 +1,17 @@
+.for-employers {
+    padding-top: 126px;
+    padding-bottom: 112px;
+    background: url(../../img/bg/for-employers-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.for-employers__inner { }
+
+.for-employers__title {
+    width: 391px;
+}
+
+.for-employers__desc {
+    width: 491px;
+}

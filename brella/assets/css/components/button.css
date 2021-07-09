@@ -4,10 +4,32 @@
     text-decoration: none;
     border-radius: 6px;
     font-weight: 700;
+    line-height: 20px;
     font-family: var(--font-raleway);
 }
 
-.btn_nav {
+.btn-nav {
     padding: 10px 14px;
     margin: 0 29px;
+    font-size: 14px;
+}
+
+.btn-contact {
+    padding: 13px 24px;
+    font-size: 13px;
+    line-height: 21px;
+}
+
+.empty-btn {
+    display: block;
+    width: 107px;
+    font-weight: bold;
+    color: var(--color-primary);
+    font-family: var(--font-raleway);
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.02px;
+    padding-bottom: 14px;
+    border-bottom: 2px solid var(--color-primary);
 }

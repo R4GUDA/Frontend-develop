@@ -2,6 +2,7 @@
     font-family: var(--font-raleway);
     display: flex;
     align-items: center;
+    font-size: 14px;
 }
 
 .nav__ul {
@@ -26,6 +27,7 @@
     color: var(--color-primary);
     font-family: var(--font-raleway);
     margin-right: 46px;
+    cursor: pointer;
 }
 
 .nav__login::after {
@@ -44,4 +46,5 @@
     color: var(--color-primary);
     font-family: var(--font-raleway);
     margin-right: 77px;
+    cursor: pointer;
 }

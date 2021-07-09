@@ -1,0 +1,33 @@
+.experience {
+    margin-top: 120px;
+}
+
+.experience__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.experience__img {
+    width: 514px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 103px;
+}
+
+.experience__img-phone {
+    height: 500px;
+}
+
+.experience__text {
+    padding-left: 120px;
+    padding-top: 68px;
+}
+
+.experience__title {
+    width: 483px;
+}
+
+.experience__desc {
+    width: 545px;
+    margin-bottom: 24px;
+}

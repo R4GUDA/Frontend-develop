@@ -1,0 +1,24 @@
+/* General */
+
+@import url(./vars.css);
+@import url(./reset.css);
+@import url(./landing.css);
+
+/* Sections */
+
+@import url(./sections/advantages.css);
+@import url(./sections/courses.css);
+@import url(./sections/feedback.css);
+@import url(./sections/footer.css);
+@import url(./sections/get-start.css);
+@import url(./sections/header.css);
+@import url(./sections/instructor.css);
+@import url(./sections/introduce.css);
+@import url(./sections/questions.css);
+
+/* Components */
+
+@import url(./components/advantage.css);
+@import url(./components/course.css);
+@import url(./components/question.css);
+@import url(./components/student.css);

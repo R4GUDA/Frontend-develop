@@ -1,9 +1,11 @@
 /* General */
+
 @import url(./landing.css);
 @import url(./reset.css);
 @import url(./vars.css);
 
 /* Sections */
+
 @import url(./sections/advantages.css);
 @import url(./sections/backed.css);
 @import url(./sections/benefits.css);
@@ -18,5 +20,9 @@
 @import url(./sections/footer.css);
 
 /* Components */
+
 @import url(./components/button.css);
 @import url(./components/nav.css);
+@import url(./components/advantage.css);
+@import url(./components/new.css);
+@import url(./components/coverage.css);

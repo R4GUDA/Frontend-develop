@@ -1,0 +1,113 @@
+.footer {
+    background: var(--color-primary);
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+    border-bottom: 1px solid white;
+    margin-bottom: 69px;
+}
+
+.footer__inner {}
+
+.footer-top__get {
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 0.02px;
+    text-transform: uppercase;
+    font-family: var(--font-raleway);
+}
+
+.footer-top__desc {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.02px;
+    font-family: var(--font-raleway);
+    width: 345px;
+    margin-top: 19px;
+    margin-bottom: 16px;
+}
+
+.footer-top__mail {
+    height: 54px;
+    width: 300px;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.footer-top__icon {
+    margin-right: 25px;
+}
+
+.footer-top__search {
+    position: absolute;
+    padding: 15px 13px 21px 21px;
+    border: 1px solid white;
+    background: none;
+    width: 300px;
+    font-family: var(--font-raleway);
+    color: white;
+}
+
+.footer-top__search::placeholder {
+    color: white;
+}
+
+.footer-top__send {
+    cursor: pointer;
+    right: -36px;
+    position: absolute;
+    width: 50px;
+    height: 54px;
+    border: 1px solid white;
+    background: url(../../img/icon/footer-arrow.png);
+}
+
+.footer-top__send:hover {}
+
+.footer__desc {
+    font-family: var(--font-raleway);
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.02px;
+}
+
+.footer__desc:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+.footer-bottom {
+    font-family: var(--font-raleway);
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.02px;
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-bottom__right {
+    display: flex;
+    align-items: center;
+    margin: 0 9px;
+}
+
+.footer-bottom__hr {
+    height: 24px;
+    margin: 0 9px;
+}
+
+.footer-top__nav {
+    display: flex;
+}
+
+.footer-top__logo {
+    height: 28px;
+    width: 98px;
+    margin-right: 105px;
+}

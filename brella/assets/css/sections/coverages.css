@@ -35,24 +35,3 @@
     display: flex;
     justify-content: space-between;
 }
-
-.coverage-block {
-    width: 262px;
-}
-
-.coverage-block__number {
-    color: var(--color-coverage-yellow);
-    font-family: var(--font-roboto);
-    font-weight: bold;
-    font-size: 60px;
-    line-height: 78px;
-}
-
-.coverage-block__desc {
-    color: var(--color-primary);
-    font-family: var(--font-raleway);
-    font-size: 13px;
-    line-height: 22px;
-    font-weight: bold;
-    letter-spacing: 0.02px;
-}

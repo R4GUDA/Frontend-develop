@@ -48,3 +48,32 @@
     margin-right: 77px;
     cursor: pointer;
 }
+
+.footer-nav {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 198px;
+}
+
+
+/* footer nav */
+
+.footer-nav__title {
+    font-family: var(--font-raleway);
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 0.02px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.footer-nav__link {
+    font-family: var(--font-raleway);
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 27px;
+    color: white;
+    margin-bottom: 15px;
+}

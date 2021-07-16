@@ -1,0 +1,39 @@
+.advantage {
+    top: 100px;
+    display: flex;
+    width: 356px;
+}
+
+.advantage__text {
+    margin-left: 10px;
+}
+
+.advantage__title {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--color-primary);
+    font-family: var(--font-raleway);
+}
+
+.advantage__desc {
+    color: var(--color-primary);
+    font-family: var(--font-raleway);
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.umbrella {
+    width: 41px;
+    height: 45px;
+}
+
+.check {
+    width: 46px;
+    height: 45px;
+}
+
+.pocket {
+    width: 58px;
+    height: 45px;
+}

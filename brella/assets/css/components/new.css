@@ -1,0 +1,17 @@
+.new {
+    display: block;
+    width: 355px;
+    cursor: pointer;
+}
+
+.new__img {}
+
+.new__tagline {
+    font-style: 11px;
+    margin-top: 20px;
+}
+
+.new__title {
+    font-size: 20px;
+    line-height: 26px;
+}

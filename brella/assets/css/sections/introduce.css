@@ -1,4 +1,6 @@
 .introduce {
+    z-index: 1;
+    position: relative;
     background: url(../../img/bg/introduce-bg.png);
     height: 720px;
     background-repeat: no-repeat;
@@ -35,7 +37,6 @@
     padding: 20px 88px 20px 20px;
     border-radius: 6px 0px 0px 6px;
 }
-
 
 .search__find {
     font-weight: bold;

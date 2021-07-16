@@ -1,0 +1,30 @@
+.header-nav {
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-nav__left {
+    display: flex;
+    align-items: center;
+    width: 600px;
+}
+
+.header-nav__right {
+    display: flex;
+    align-items: center;
+}
+
+.header-nav__link {
+    margin-left: 50px;
+    font-family: var(--font-mulish);
+    color: var(--color-primary);
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.header-nav__btn {
+    margin-left: 50px;
+}

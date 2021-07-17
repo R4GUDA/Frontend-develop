@@ -21,6 +21,7 @@
 }
 
 .empty-btn {
+    background: transparent;
     display: block;
     width: 107px;
     font-weight: bold;

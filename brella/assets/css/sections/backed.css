@@ -28,4 +28,11 @@
 .sponsor__arrow {
     width: 30px;
     height: 23px;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: ease 0.5s;
+}
+
+.sponsor__arrow:hover {
+    opacity: 1;
 }

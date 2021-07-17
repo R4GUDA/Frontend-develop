@@ -6,6 +6,14 @@
     background: linear-gradient(44.11deg, #CD10FF 15.75%, #9F06FF 84.63%);
 }
 
-.btn-big-padding {
+.btn-small-padding {
+    font-size: 16px;
+    line-height: 20px;
     padding: 15px 30px;
+}
+
+.btn-big-padding {
+    font-size: 20px;
+    line-height: 25px;
+    padding: 20px 49px;
 }

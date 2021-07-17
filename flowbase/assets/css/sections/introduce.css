@@ -1,6 +1,7 @@
 .introduce {
     position: relative;
     height: 700px;
+    margin-bottom: 100px;
 }
 
 .introduce__inner {
@@ -60,6 +61,9 @@
 }
 
 .introduce__video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 590px;
     height: 360px;
     background: #001A49;
@@ -67,4 +71,9 @@
     border-radius: 20px;
     margin-bottom: -100px;
     margin-left: 170px;
+}
+
+.introduce__play-btn {
+    width: 70px;
+    height: 70px;
 }

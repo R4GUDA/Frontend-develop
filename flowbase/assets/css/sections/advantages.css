@@ -1,0 +1,31 @@
+.advantage {}
+
+.advantages__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: white;
+    border: 1px solid #E7EAEB;
+    box-sizing: border-box;
+    padding: 0 50px;
+    border-radius: 21px;
+}
+
+.advantage {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.advantage__title {}
+
+.advantage__text {
+    font-family: var(--font-mulish);
+    color: var(--color-secondary);
+}
+
+.advantage__line {
+    content: "";
+    width: 1px;
+    height: 112px;
+    background: #E7EAEB;
+}

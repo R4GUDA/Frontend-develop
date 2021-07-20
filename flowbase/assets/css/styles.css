@@ -7,7 +7,7 @@
 /* Sections */
 
 @import url(./sections/advantages.css);
-@import url(./sections/courses.css);
+@import url(./sections/cources.css);
 @import url(./sections/feedback.css);
 @import url(./sections/footer.css);
 @import url(./sections/get-start.css);
@@ -19,7 +19,7 @@
 /* Components */
 
 @import url(./components/advantage.css);
-@import url(./components/course.css);
+@import url(./components/cource.css);
 @import url(./components/question.css);
 @import url(./components/student.css);
 @import url(./components/buttons.css);

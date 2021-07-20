@@ -1,0 +1,24 @@
+.cources {}
+
+.cources__inner {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cources__title {}
+
+.cources__desc {
+    width: 560px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.cource__left {
+    display: flex;
+}
+
+.cources__container {
+    width: 100%;
+}

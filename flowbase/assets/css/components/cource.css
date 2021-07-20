@@ -1,0 +1,35 @@
+.cource {
+    width: 100%;
+    padding: 39px 54px 41px 46px;
+    background: #FDF3FF;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cource__title {
+    margin: 0;
+}
+
+.cource__logo {
+    width: 64px;
+    height: 64px;
+    margin-right: 20px;
+}
+
+.cource__title {
+    margin-bottom: 20px;
+}
+
+.cource__left-inner {}
+
+.cource__desc {
+    width: 501px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.cource_btn {
+    height: 0;
+    padding: 23px 35px 23px 35px;
+}
